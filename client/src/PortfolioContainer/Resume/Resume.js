@@ -69,8 +69,8 @@ const Resume = (props) => {
         { skill: "React Js", ratingPercentage: 75 },
         { skill: "HTML", ratingPercentage: 90 },
         { skill: "CSS", ratingPercentage: 90 },
-        { skill: "Java", ratingPercentage: 70 },
-        { skill: "SQL", ratingPercentage: 70 },
+        { skill: "Java SpringBoot", ratingPercentage: 70 },
+        { skill: "SQL SERVER", ratingPercentage: 70 },
     ]
 
     const projectDetails = [
@@ -91,7 +91,8 @@ const Resume = (props) => {
             
             <ResumeHeading
                 heading={"Vellore Institute Of Technology, Vellore"}
-                subHeading={"BACHELOR OF ENGINEERING IN COMPUTER SCIENCE"}
+                subHeading={"BACHELOR OF Technology in Electronics and Communication Engineering"}
+
                 fromDate={"2019"}
                 toDate={"2023"}
             />

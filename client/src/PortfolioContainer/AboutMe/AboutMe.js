@@ -14,7 +14,7 @@ const AboutMe = (props) => {
     const fadeInSubscription = ScrollService.currentScreenFadeIn.subscribe(fadeInScreenHandler)
 
     const SCREEN_CONSTANTS = {
-        description: "Software Developer with 1.9 years of experience. I've completed my education in CSE from VIT University. Currently working as Software Developer in Institutional Shareholder Services.",
+        description: "Software Developer with 1.9 years of experience. I've completed my education in ECE from VIT University. Currently working as Software Developer in Institutional Shareholder Services.",
         highlights: {
             bullets: [
                 "Software Developer",
